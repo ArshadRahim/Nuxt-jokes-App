@@ -29,7 +29,9 @@
   margin-bottom: 1rem;
   padding-bottom: 1rem;
   border-bottom: 1px dotted #ccc;
+
   }
+
   .header .title {
     font-size: 3rem;
     color: #528488;
@@ -44,5 +46,18 @@
     color: #fff;
     padding: 0.3rem 1rem;
     margin-right: 0.5rem;
+    text-decoration: none;
+    border-radius: 6px;
+
+}
+
+
+/* MEDIA QUERIES */
+
+ @media only screen and (max-width: 480px) {
+  .header {
+    flex-direction: column;
+   }
   }
+
 </style>

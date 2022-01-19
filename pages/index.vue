@@ -1,6 +1,6 @@
 <template>
 <div>
-  Hey there
+  Hey there, This is the index Page !
 </div>
 </template>
 
