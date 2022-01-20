@@ -35,7 +35,7 @@ import Joke from "../../components/Joke.vue";
     },
       head() {
       return {
-        title: 'Jokes'
+        title: 'Lame Dad Jokes'
       }
       },
       meta: [
